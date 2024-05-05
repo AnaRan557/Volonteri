@@ -4,41 +4,36 @@
       "id": "4",
       "ime": "Anđela",
       "kontakt": "andela@gmail.com",
-      "grad": "Hvar",
-      "aktivnosti": "Ekologija",
-      "slika": "./public/avatar-1.png"
+      "grad": "Dubrovnik",
+      "aktivnosti": "Ekologija"
     },
     {
       "id": "df93",
       "ime": "Marija",
       "kontakt": "marija@gmail.com",
       "grad": "Zagreb",
-      "aktivnosti": "Medicina",
-      "slika": ""
+      "aktivnosti": "Razno"
     },
     {
       "id": "9e8f",
       "ime": "Ana-Marija",
-      "kontakt": "mail",
-      "grad": "Zagreb",
-      "aktivnosti": "Ekonomija",
-      "slika": "./public/slika003.png"
+      "kontakt": "091 444 777",
+      "grad": "Osijek",
+      "aktivnosti": "Edukacija"
     },
     {
       "id": "969b",
       "ime": "Dino",
       "kontakt": "091555777",
       "grad": "Zagreb",
-      "aktivnosti": "Ekologija",
-      "slika": ""
+      "aktivnosti": "Ekologija"
     },
     {
       "id": "3012",
       "ime": "Luka",
       "kontakt": "luka@gmail.com",
       "grad": "Rijeka",
-      "aktivnosti": "Razno",
-      "slika": ""
+      "aktivnosti": "Razno"
     }
   ],
   "udruge": [
@@ -60,6 +55,26 @@
       "naziv": "Udruga za zaštitu životinja",
       "adresa": "Cvjetni Trg 5",
       "grad": "Zagreb"
+    }
+  ],
+  "aktivnosti": [
+    {
+      "id": "1",
+      "naziv": "Čišćenje podmorja",
+      "organizator": "Grad Trogir",
+      "lokacija": "Trogir"
+    },
+    {
+      "id": "2",
+      "naziv": "Šetnja sa korisnikom",
+      "organizator": "Dom za starije osobe",
+      "lokacija": "Rijeka"
+    },
+    {
+      "id": "83fe",
+      "naziv": "Rad s mladima",
+      "organizator": "Transparency International Hrvatska",
+      "lokacija": "Zagreb"
     }
   ]
 }

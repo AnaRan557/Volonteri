@@ -11,13 +11,14 @@ function Pocetna() {
             <h1 className="text-3xl m-5">Dobrodošli!</h1>
 
             <p className="m-5 text-xl font-thin" >
-              Aplikacija je nastala kao završni projekt Junior Dev React tečaja.<br/>
-              Hvala organizatorima!
+              Ova aplikacija je nastala kao završni projekt Junior Dev React tečaja.<br/>
+              Nažalost, nije dovršena zbog jako malo vremena kojeg sam uspjela odvojiti s obzirom na obaveze.<br/>
+              Korištene su tehnologije i koncepti upoznati tijekom tečaja.<br/><br/>
+              Hvala predavaču i organizatorima!<br/>
             </p>
 
             <p className="m-5 text-xl font-thin">
-              Izradila: <br/>
-              Ana Rančić <br/>
+              Ana Rančić 
             </p>
 
           </div>

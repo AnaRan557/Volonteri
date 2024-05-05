@@ -48,10 +48,10 @@ const {admin,setAdmin} = useContext(AdminContext)
 
         </div>
 
-        <div className="flex flex-row justify-center items-start col-span-3">
-        <table className="shadow-lg border-2 w-6/12 text-center mt-10">
-          <thead>
-            <tr className="w-6/12 h-12">
+        <div className="flex flex-row justify-center items-start col-span-3 " style={{backgroundImage:`url("/people-2.png")`, backgroundRepeat:"no-repeat", backgroundSize:"cover"}}>
+          <table className="shadow-lg border-2 w-6/12 text-center mt-10">
+            <thead>
+              <tr className="w-6/12 h-12">
           
                 <th className=" bg-stone-300">Naziv</th>
                 <th className="bg-stone-300">Adresa</th>

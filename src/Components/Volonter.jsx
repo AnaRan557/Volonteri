@@ -27,7 +27,7 @@ export default function Volonter({rez,promjena}) {
 
 
   return (
-    <div className="w-[300px] bg-gray-200/80 hover:bg-stone-100 hover:transition-all hover:scale-105 shadow-md m-5 p-5 rounded-sd ${potvrda === true ? 'border-red-900' : ''}">
+    <div className="w-[300px] bg-gray-200/80 hover:bg-stone-100 hover:transition-all hover:scale-105 shadow-md m-5 p-5 rounded-sd ">
 
         <div className="flex flex-row justify-end">
                     
