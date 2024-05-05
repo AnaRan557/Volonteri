@@ -1,0 +1,65 @@
+{
+  "volonteri": [
+    {
+      "id": "4",
+      "ime": "Anđela",
+      "kontakt": "andela@gmail.com",
+      "grad": "Hvar",
+      "aktivnosti": "Ekologija",
+      "slika": "./public/avatar-1.png"
+    },
+    {
+      "id": "df93",
+      "ime": "Marija",
+      "kontakt": "marija@gmail.com",
+      "grad": "Zagreb",
+      "aktivnosti": "Medicina",
+      "slika": ""
+    },
+    {
+      "id": "9e8f",
+      "ime": "Ana-Marija",
+      "kontakt": "mail",
+      "grad": "Zagreb",
+      "aktivnosti": "Ekonomija",
+      "slika": "./public/slika003.png"
+    },
+    {
+      "id": "969b",
+      "ime": "Dino",
+      "kontakt": "091555777",
+      "grad": "Zagreb",
+      "aktivnosti": "Ekologija",
+      "slika": ""
+    },
+    {
+      "id": "3012",
+      "ime": "Luka",
+      "kontakt": "luka@gmail.com",
+      "grad": "Rijeka",
+      "aktivnosti": "Razno",
+      "slika": ""
+    }
+  ],
+  "udruge": [
+    {
+      "id": "2",
+      "naziv": "Naša dica",
+      "adresa": "Franje Tuđmana 123",
+      "grad": "Split"
+    },
+    {
+      "id": "8d67",
+      "naziv": "Kap dobrote",
+      "adresa": "Cvjetni Trg 2",
+      "grad": "Zagreb",
+      "kontakt": "g"
+    },
+    {
+      "id": "7cf0",
+      "naziv": "Udruga za zaštitu životinja",
+      "adresa": "Cvjetni Trg 5",
+      "grad": "Zagreb"
+    }
+  ]
+}

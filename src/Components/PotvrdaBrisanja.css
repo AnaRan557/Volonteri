@@ -1,0 +1,44 @@
+.brisanje{
+
+   
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    background-color: rgba(240, 228, 193, 0.7);
+    padding: 50px;
+    z-index:1000;
+    width:500px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+
+
+.brisanjeDa, .brisanjeNe{
+
+    border:none;
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: #f4d787;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 60px;
+    height: 60px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
+    margin:10px;
+   
+}
+
+
+
+h4{
+
+    margin:30px;
+    color: #111; 
+    font-size: 16px;
+}
